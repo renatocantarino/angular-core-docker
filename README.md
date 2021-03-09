@@ -1,4 +1,4 @@
-# angular-core-docker
+# angular core docker
 Angular + .net core 5 + docker support
 
 
